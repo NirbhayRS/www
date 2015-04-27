@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-image: url("http://websys3.stern.nyu.edu/~nrs356/websys/Ghost bus/bg.png");
+	background-repeat:no-repeat;
+	background-size: 280px 500px;
+	background-attachment:fixed}
+	
+h2{color:white; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif}	
+p{color:#FF9933; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif; font-size:18px}	
+p2{color:#FF9933; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif; font-size:15px}
+a{color:white; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif; font-size:20px}	
+	
+img {
+	 
+            transition:all 0.3s ease;
+}
+.grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
